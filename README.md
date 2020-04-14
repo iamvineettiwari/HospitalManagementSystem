@@ -1,2 +1,2 @@
 # HospitalManagementSystem
-Hospital management system built with JSP, MySQL and JavaScript
+Hospital management system built with Servlet, MySQL (JDBC) and JavaScript
